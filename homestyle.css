@@ -41,7 +41,7 @@ img{
 .image2 {
     display: flex;
     width: 100%;
-    height: auto;
+    height: 100px;
 }
 #myPage {
     min-width: 320px;
